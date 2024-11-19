@@ -3,6 +3,7 @@ import sys
 
 import setuptools
 
+
 # Determine which attach binary to take into package
 package_data = {
     "viztracer": [
